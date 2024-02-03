@@ -20,5 +20,6 @@ export const ChildArea =memo( (props) =>{
         }
             
         </>
+
     )
 })
