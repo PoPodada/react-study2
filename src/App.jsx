@@ -15,7 +15,7 @@ export const App = () => {
       password: passwordRef.current.value,
     });
   };
-/* ログインページ */
+/* ログインページ! */
   return (
     <div className="App">
       <h1>ログイン</h1>
